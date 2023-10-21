@@ -9,7 +9,7 @@ Computer Engineering (Sem VII) - Blockchain
 | 4   | To implement the concept of block and blockchain using javascript  | 24-08-2023     | 24-08-2023     |
 | 5   | To design a smart contract using Solidity and Remix IDE  | 07-09-2023     | 07-09-2023     |
 | 6   | To design a smart contract implementing the concepts of wallet and transaction using solidity  | 14-09-2023     | 14-09-2023     |
-| 7   | To create a private ethereum blockchain using Geth | 05-10-2023     | 10-10-2023     |
-| 8   | To create a private ethereum blockchain using Ganache and Truffle  | 05-10-2023     | 10-10-2023     |
-| 9   | Case Study-Ethereum Blockchain  | 10-10-2023     | 10-10-2023     |
+| 7   | To create a private ethereum blockchain using Geth | 05-10-2023     | 12-10-2023     |
+| 8   | To create a private ethereum blockchain using Ganache and Truffle  | 05-10-2023     | 12-10-2023     |
+| 9   | Case Study-Ethereum Blockchain  | 12-10-2023     | 12-10-2023     |
 
